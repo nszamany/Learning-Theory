@@ -187,7 +187,7 @@ addons:
 
 ## Citation
 ```
-Very heavily inspired by https://github.com/safelix/dinopl
+Heavily borrowed from https://github.com/safelix/dinopl.
 
 @inproceedings{sarnthein2023random,
   title = {Random Teachers are Good Teachers},
