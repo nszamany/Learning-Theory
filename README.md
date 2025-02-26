@@ -187,6 +187,8 @@ addons:
 
 ## Citation
 ```
+Very heavily inspired by https://github.com/safelix/dinopl
+
 @inproceedings{sarnthein2023random,
   title = {Random Teachers are Good Teachers},
   author = {Sarnthein, Felix and Bachmann, Gregor and Anagnostidis, Sotiris and Hofmann, Thomas},
